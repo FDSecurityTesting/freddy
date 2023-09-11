@@ -1,10 +1,10 @@
 import json
 import boto3
 
-# Dummy token
+
 TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
 
-# Dummy AWS keys
+
 AWS_ACCESS_KEY_ID = "AQASDMNXCVKJYHUS"
 AWS_SECRET_ACCESS_KEY = "YJjkhasdknbmnbHkasdmbnJHZJKH"
 
